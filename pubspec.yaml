@@ -78,7 +78,7 @@ flutter:
     - assets/icons/
     - assets/images/
     - assets/images/home/
-    - aassets/.env
+    - assets/.env
 
 
   # To add custom fonts to your application, add a fonts section here,
