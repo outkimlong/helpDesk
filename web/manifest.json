@@ -1,6 +1,6 @@
 {
-    "name": "helpDesk_app",
-    "short_name": "helpDesk_app",
+    "name": "help_desk",
+    "short_name": "help_desk",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

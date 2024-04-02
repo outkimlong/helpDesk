@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:helpDesk_app/core/utils/app_fonts.dart';
-import 'package:helpDesk_app/view_model/BottomNavigationBar/navigationbar_view_model.dart';
-import 'package:helpDesk_app/widgets/custom_drawer.dart';
-import 'package:helpDesk_app/widgets/custom_appbar.dart';
-import 'package:helpDesk_app/widgets/custom_navigationbar.dart';
+import 'package:help_desk/core/utils/app_fonts.dart';
+import 'package:help_desk/view_model/BottomNavigationBar/navigationbar_view_model.dart';
+import 'package:help_desk/widgets/custom_drawer.dart';
+import 'package:help_desk/widgets/custom_appbar.dart';
+import 'package:help_desk/widgets/custom_navigationbar.dart';
 
 class BottomNavigationBarScreen extends StatefulWidget {
   const BottomNavigationBarScreen({super.key});

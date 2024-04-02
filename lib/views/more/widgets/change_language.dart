@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:helpDesk_app/view_model/more/change_language_view_model.dart';
+import 'package:help_desk/view_model/more/change_language_view_model.dart';
 
 class ChangeLanguageView extends GetView<ChangeLanguageController> {
   const ChangeLanguageView({super.key});

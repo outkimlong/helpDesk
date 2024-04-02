@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:helpDesk_app/core/services/themes_services.dart';
-import 'package:helpDesk_app/view_model/more/theme_view_model.dart';
+import 'package:help_desk/core/services/themes_services.dart';
+import 'package:help_desk/view_model/more/theme_view_model.dart';
 
 class DarkModeView extends GetView<DarkModeController> {
   @override

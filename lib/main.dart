@@ -4,12 +4,12 @@ import 'package:flutter/material.dart';
 import 'package:flutter_dotenv/flutter_dotenv.dart';
 import 'package:get/get.dart';
 import 'package:get_storage/get_storage.dart';
-import 'package:helpDesk_app/core/services/firebase_services.dart';
-import 'package:helpDesk_app/core/services/themes_services.dart';
-import 'package:helpDesk_app/core/utils/app_language.dart';
-import 'package:helpDesk_app/core/utils/local_storage.dart';
-import 'package:helpDesk_app/firebase_options.dart';
-import 'package:helpDesk_app/route.dart';
+import 'package:help_desk/core/services/firebase_services.dart';
+import 'package:help_desk/core/services/themes_services.dart';
+import 'package:help_desk/core/utils/app_language.dart';
+import 'package:help_desk/core/utils/local_storage.dart';
+import 'package:help_desk/firebase_options.dart';
+import 'package:help_desk/route.dart';
 
 Future<void> firebaseMessagingBackgroundHandler(RemoteMessage message) async {
   await Firebase.initializeApp();

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:helpDesk_app/core/utils/app_fonts.dart';
+import 'package:help_desk/core/utils/app_fonts.dart';
 
 class MyHomePage extends StatefulWidget {
   const MyHomePage({

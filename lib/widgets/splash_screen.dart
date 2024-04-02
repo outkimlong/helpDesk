@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:helpDesk_app/view_model/splash_view_model.dart';
+import 'package:help_desk/view_model/splash_view_model.dart';
 
 class SplashScreen extends StatelessWidget {
   const SplashScreen({super.key});

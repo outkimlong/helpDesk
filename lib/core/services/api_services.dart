@@ -1,6 +1,6 @@
 import 'dart:convert';
 import 'package:get/get_connect.dart';
-import 'package:helpDesk_app/core/utils/constants.dart';
+import 'package:help_desk/core/utils/constants.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 class ErrorModel {

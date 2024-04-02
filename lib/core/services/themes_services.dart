@@ -2,7 +2,7 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:get_storage/get_storage.dart';
-import 'package:helpDesk_app/core/utils/app_color.dart';
+import 'package:help_desk/core/utils/app_color.dart';
 
 class ThemeService {
   // light mode color

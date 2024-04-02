@@ -1,6 +1,6 @@
 import 'dart:async';
 import 'package:get/get.dart';
-import 'package:helpDesk_app/views/BottomNavigationBar/navigationbar.dart';
+import 'package:help_desk/views/BottomNavigationBar/navigationbar.dart';
 
 class SplashController extends GetxController {
   @override

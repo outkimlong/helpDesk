@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:helpDesk_app/view_model/more/theme_view_model.dart';
-import 'package:helpDesk_app/views/more/widgets/change_language.dart';
-import 'package:helpDesk_app/views/more/widgets/dark_mode.dart';
+import 'package:help_desk/view_model/more/theme_view_model.dart';
+import 'package:help_desk/views/more/widgets/change_language.dart';
+import 'package:help_desk/views/more/widgets/dark_mode.dart';
 
 class MoreScreen extends StatefulWidget {
   const MoreScreen({

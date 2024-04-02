@@ -23,7 +23,7 @@ if (flutterVersionName == null) {
 }
 
 android {
-    namespace "com.example.helpDesk_app"
+    namespace "com.example.help_desk"
     compileSdk 34
     ndkVersion flutter.ndkVersion
 
@@ -42,7 +42,7 @@ android {
 
     defaultConfig {
        
-        applicationId "com.example.helpDesk_app"
+        applicationId "com.example.help_desk"
         minSdkVersion 21
         targetSdkVersion flutter.targetSdkVersion
         versionCode flutterVersionCode.toInteger()
